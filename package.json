@@ -1,5 +1,5 @@
 {
-  "name": "p18",
+  "name": "p118",
   "version": "0.1.0",
   "author": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
   "license": "CC0 1.0",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iqb-vocabs/p18.git"
+    "url": "git+https://github.com/iqb-vocabs/p118.git"
   },
   "bugs": {
-    "url": "https://github.com/iqb-vocabs/p18/issues"
+    "url": "https://github.com/iqb-vocabs/p118/issues"
   },
-  "homepage": "https://github.com/iqb-vocabs/p18#readme",
+  "homepage": "https://github.com/iqb-vocabs/p118#readme",
   "dependencies": {
-    "@iqb/validate-md-profile": "^0.9.1"
+    "@iqb/validate-md-profile": "0.10.5"
   }
 }
