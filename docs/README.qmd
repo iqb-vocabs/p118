@@ -11,7 +11,7 @@ Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 # IQB Deutsch HSA 2004 - Aufgabe
 
-ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p118/master/unit.json](https://raw.githubusercontent.com/iqb-vocabs/p118/master/unit.json)
+ID of profile: [https://w3id.org/iqb/p118/unit/](https://w3id.org/iqb/p118/unit/)
 
 ## Stimulus
 
@@ -54,7 +54,7 @@ ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p118/master/unit.js
 
 # IQB Deutsch HSA 2004 - Item
 
-ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p118/master/item.json](https://raw.githubusercontent.com/iqb-vocabs/p118/master/item.json)
+ID of profile: [https://w3id.org/iqb/p118/item/](https://w3id.org/iqb/p118/item/)
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
