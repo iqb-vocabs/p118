@@ -8,7 +8,7 @@ Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 ## Profil "IQB Deutsch HSA 2004 - Aufgabe"
 
-ID of profile: [https://w3id.org/iqb/p118/unit/](https://w3id.org/iqb/p118/unit/)
+ID of profile: `https://w3id.org/iqb/p118/unit/`
 
 ### Stimulus
 
@@ -45,7 +45,7 @@ ID of profile: [https://w3id.org/iqb/p118/unit/](https://w3id.org/iqb/p118/unit/
 
 ## Profil "IQB Deutsch HSA 2004 - Item"
 
-ID of profile: [https://w3id.org/iqb/p118/item/](https://w3id.org/iqb/p118/item/)
+ID of profile: `https://w3id.org/iqb/p118/item/`
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
